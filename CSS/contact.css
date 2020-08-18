@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+.prod_box_big{
+	width:554px;
+	height:auto;
+	float:left;
+	padding:10x 10px 10px 15px;
+}
+
+.top_prod_box_big{
+	width:554px;
+	height:12px;
+	float:left;
+ 	background: url(../images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg) no-repeat center bottom;
+}
+
+.bottom_prod_box_big{
+	width:554px;
+	height:12px;
+	float:left;
+ 	background: url(../images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg) no-repeat center top;
+}
+
+.center_prod_box_big{
+	width:554px;
+	height:auto;
+	float:left;
+	background: url(../images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg) repeat-y;
+	text-align:center;
+}
+
+.contact_form{
+	width:355px;
+	float:left;
+	padding: 0 0 0 75px;
+}
+
+.form_row{
+	color:#a53d17;
+	width:355px;
+	padding:10px 0;
+	clear:both;
+}
+
+label.contact{
+	width:75px;
+	float:left;
+	font-size:12px;
+	text-align:right;
+	color: #333;
+	padding: 4px 5px 0 0;
+}
+
+input.contact_input{
+	width:253px;
+	height:18px;
+	background-color:#fff;
+	color:#999;
+	border:1px #dfdfdf solid;
+	float:left;
+}
+
+textarea.contact_textarea{
+	width:253px;
+	height:50px;
+	font-size:12px;
+	background-color:#fff;
+	color:#999;
+	border:1px #dfdfdf solid;
+	float:left;
+	min-width:253px;
+	max-width:253px;
+}
+
+input.contact{
+	background:url(../images/iconfinder_circle-content-send_1495053.png) no-repeat left;
+	width:100px;
+	height:27px;
+	display:block;
+	float:right;
+	text-decoration:none;
+	line-height:27px;
+	color: #1c4a52;
+}

@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.product_img_big{
+	width:170px;
+	padding:5px 0 5px 10px;
+	float:left;
+}
+
+.thumbs{
+	border: 1px solid #dfd1d1;
+	margin:3px 0 0 0;
+	padding:8px 5px;
+}
+
+.details_big_box{
+	width:354px;
+	float:left;
+	padding:0 0 0 15px;
+	text-align:left;
+}
+
+.product_title_big{
+	color:#ea2222;
+	padding:5px 0;
+	font-weight:bold;
+	font-size:14px;
+}
+
+.specifications{
+	font-size:12px;
+	font-weight:bold;
+	line-height:18px;
+}
+
+span.blue{
+	color:#5f9fab;
+}
+
+input.addtocart{
+	background:url(../images/iconfinder_253-Shopping_Cart_Product_2124194.png) no-repeat left;
+	width:100px;
+	height:27px;
+	display:block;
+	float:left;
+	text-decoration:none;
+	line-height:27px;
+	color: #1c4a52;
+}
+
+input.compare{
+	background:url(../images/iconfinder_page_copy_36245.png) no-repeat left;
+	width:100px;
+	height:27px;
+	display:block;
+	float:left;
+	text-decoration:none;
+	line-height:27px;
+	color: #1c4a52;
+	margin:0 0 0 10px;
+}

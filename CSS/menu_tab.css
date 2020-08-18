@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* MENU_TOP */
+
+#menu_tab{
+	width: 1000px;
+	height: 50px;
+}
+
+.left_menu_corner{
+	width: 9px;
+	height: 50px;
+	float:left;
+	background:url(../images/background-gray-abstract.jpg);
+}
+
+.right_menu_corner{
+	width: 9px;
+	height: 50px;
+	float:left;
+	background:url(../images/2.PNG);
+}
+
+ul.menu{
+	width: 982px;
+	float: left;
+	display:block;
+	list-style-type: none;
+	background:url(../images/background-gray-abstract.jpg);
+}
+
+ul.menu li{
+	display:inline;
+	font-size:11px;
+	font-weight:bold;
+	line-height: 50px;
+
+}
+
+ul.menu li.divider{
+	display:inline;
+	width:2px;
+	height:50px;
+	float:left;
+	border-right:1px dotted #000;
+}
+
+ul.menu li a, ul.menu li a:visited{
+	display:block;
+	float: left;
+	padding:0 8px 0 22px;
+	margin: 0 14px;
+	height: 50px;
+	text-decoration:none;
+	color:#67d77;
+}
+
+#nav_hom{
+	background:url(../images/iconfinder_go-home_118770.png) no-repeat left;
+}
+
+#nav_pro{
+	background:url(../images/iconfinder_253-Shopping_Cart_Product_2124194.png) no-repeat left;
+}
+
+#nav_spe{
+	background:url(../images/iconfinder_gift-diamon-pesent-special_3992491.png) no-repeat left;
+}
+
+#nav_acc{
+	background:url(../images/employee.png) no-repeat left;
+}
+
+#nav_sig{
+	background:url(../images/register.png) no-repeat left;
+}
+
+#nav_shi{
+	background:url(../images/iconfinder_Delivery_3387313.png) no-repeat left;
+}
+
+#nav_con{
+	background:url(../images/iconfinder_Phone_3336937.png) no-repeat left;
+}
+
+li.currencies{
+	width: 180px;
+	float: left;
+	padding:0 0 0 15px;
+	color:#67d77;
+	font-size: 11px;
+	font-weight:bold;
+}
