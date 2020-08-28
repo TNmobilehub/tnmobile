@@ -74,3 +74,8 @@ body{
 	border-bottom-color:#ffffff;
 	border-right-color: #ffffff;
 }
+.trai{
+	margin-top: 5px;
+	margin-left: 5px;
+	float: left;
+}
